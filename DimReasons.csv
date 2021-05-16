@@ -1,4 +1,5 @@
 ﻿ReasonForTermination;ReasonId
+No Leave;0
 Incompatibilidade com emprego principal;1
 Relacionamento com a chefia;2
 Mudança de residência;3
@@ -9,7 +10,7 @@ Motivos familiares;7
 Novo emprego ( mais perto de casa);8
 Falecimento;9
 Incompatibilidade com os estudos;10
-NULL;11
+NoReason;11
 Comportamento incorrecto;12
 Others - Personnel Movement;13
 Novo emprego (melhor remunerado);14
